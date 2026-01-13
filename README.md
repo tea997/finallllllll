@@ -40,9 +40,3 @@
 
 * Frontend + Backend deployed on **Render**
 
-If you found this helpful, please:
-
-* ⭐️ Star this repo
-* 🛠️ Fork it
-* 📣 Share with others
-* 🧠 Subscribe on [YouTube](https://www.youtube.com/@emmanuelezeigbo659) for more in-depth dev tutorials
